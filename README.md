@@ -15,3 +15,4 @@ Do you need a tutorial? Well... umm .. good luck with that.
 
 What? Why? Who? For what reason?
 These are the questions you need to ask yourself...
+"# AmazinGApp" 
